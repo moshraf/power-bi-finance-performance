@@ -1,0 +1,11 @@
+Level 1,Level 2,Level 3,Level 4,Level 5,Level 6,Sign
+Net Income ,Income Before Taxes,Operating Income (EBIT),Revenue,Gross Profit ,Gross Revenue,1
+Net Income ,Income Before Taxes,Operating Income (EBIT),Revenue,Gross Profit ,Cost of Goods Sold,-1
+Net Income ,Income Before Taxes,Operating Income (EBIT),Total Operating Expenses ,Operating Expenses,Research and Development,-1
+Net Income ,Income Before Taxes,Operating Income (EBIT),Total Operating Expenses ,Operating Expenses,Sales and Marketing,-1
+Net Income ,Income Before Taxes,Operating Income (EBIT),Total Operating Expenses ,Operating Expenses,General and Administrative,-1
+Net Income ,Income Before Taxes,Operating Income (EBIT),Total Operating Expenses ,Operating Expenses,Salaries and Wages,-1
+Net Income ,Income Before Taxes,Operating Income (EBIT),Total Operating Expenses ,Operating Expenses,Interest,-1
+Net Income ,Income Before Taxes,Operating Income (EBIT),Total Operating Expenses ,Operating Expenses,Rent and Utilities,-1
+Net Income ,Income Before Taxes,Operating Income (EBIT),Total Operating Expenses ,Operating Expenses,Other,-1
+Net Income ,Taxes,Taxes,Taxes,Taxes,Taxes,-1
